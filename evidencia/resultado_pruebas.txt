@@ -1,0 +1,25 @@
+00:00 +0: loading test/momia_test.dart
+00:00 +0: test/momia_test.dart: la momia avanza en linea recta mientras no llegue a un limite
+00:00 +1: test/momia_test.dart: la momia invierte direccion al llegar al limite derecho
+00:00 +2: test/momia_test.dart: una momia derrotada no se mueve
+00:00 +3: test/motor_combate_test.dart: caer sobre la mitad superior de una momia la derrota
+00:00 +4: test/motor_combate_test.dart: chocar de lado con una momia golpea al jugador
+00:00 +5: test/motor_combate_test.dart: sin interseccion no pasa nada
+00:00 +6: test/motor_fisica_test.dart: aplicarGravedad aumenta la velocidad vertical y mueve al personaje hacia abajo
+00:00 +7: test/motor_fisica_test.dart: saltar solo funciona si el personaje esta en el suelo
+00:00 +8: test/motor_fisica_test.dart: saltar no hace nada si el personaje ya esta en el aire
+00:00 +9: test/motor_fisica_test.dart: el personaje aterriza sobre una plataforma al caer sobre ella
+00:00 +10: test/motor_fisica_test.dart: el personaje no aterriza si todavia esta muy por encima de la plataforma
+00:00 +11: test/motor_fisica_test.dart: moverHorizontal desplaza al personaje segun el delta recibido
+00:00 +12: test/motor_fisica_test.dart: moverHorizontal no deja salir al personaje por el borde izquierdo
+00:00 +13: test/motor_fisica_test.dart: moverHorizontal no deja salir al personaje por el borde derecho
+00:00 +14: test/motor_fisica_test.dart: haLlegadoALaMeta es verdadero cuando el personaje alcanza la posicion
+00:00 +15: test/motor_fisica_test.dart: haLlegadoALaMeta es falso si aun no llega
+00:01 +16: test/motor_juego_test.dart: recolectar una calaverita suma puntos y la marca como recolectada
+00:01 +17: test/motor_juego_test.dart: una calaverita ya recolectada no vuelve a sumar puntos
+00:01 +18: test/motor_juego_test.dart: al chocar lateralmente con una momia se pierde una vida y el personaje regresa al inicio
+00:01 +19: test/motor_juego_test.dart: perder la ultima vida cambia el estado a perdido
+00:01 +20: test/motor_juego_test.dart: llegar a la meta cambia el estado a ganado
+00:01 +21: test/rectangulo_test.dart: dos rectangulos que se traslapan se detectan como interseccion
+00:01 +22: test/rectangulo_test.dart: dos rectangulos separados no se intersectan
+00:01 +23: All tests passed!
