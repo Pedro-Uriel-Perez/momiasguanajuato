@@ -60,6 +60,10 @@ flutter run -d chrome # o -d windows, o un celular/emulador
 - [Análisis estático](evidencia/resultado_analisis.txt): sin problemas
 - [Captura del juego](evidencia/juego_ejecutandose.png)
 
+| Victoria: llegaste al Callejón del Beso | Game Over: las momias te atraparon |
+|---|---|
+| ![Victoria](evidencia/victoria.png) | ![Game Over](evidencia/game_over.png) |
+
 ## Notas sobre el manual
 
 Dos pruebas del manual fallaban por los datos de prueba, no por la lógica:
